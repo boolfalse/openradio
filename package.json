@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "node-openradio",
+  "description": "Node.js OpenRadio",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.3.0",
+    "got": "^11.8.2",
+    "openradio": "^1.1.25"
+  }
+}
